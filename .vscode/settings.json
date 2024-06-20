@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "managing.h": "c",
+        "menu.h": "c",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "typeinfo": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "sstream": "cpp",
+        "type_traits": "cpp",
+        "random": "cpp"
+    }
+}
